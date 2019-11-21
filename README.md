@@ -9,3 +9,7 @@ Horizontal scrolling menu using jQuery and  and MySQL
 # Menu List in DB
 ![Menu List in DB](https://github.com/MohitPrakashSharma/Horizontal-scrolling-menu-using-jquery-and-and-MySql/blob/master/demo-menu-db.png)
 
+
+# Create DataBase  
+## phpsamples
+[Create table !](https://github.com/MohitPrakashSharma/Horizontal-scrolling-menu-using-jquery-and-and-MySql/blob/master/menu.sql)
